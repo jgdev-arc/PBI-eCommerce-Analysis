@@ -1,6 +1,6 @@
 # eCommererce Analysis
 
-[![H81T1IV.md.gif](https://iili.io/H81T1IV.md.gif)](https://freeimage.host/i/H81T1IV)
+<img src="https://iili.io/H81T1IV.md.gif" />
 
 
 ## Problem Statements
