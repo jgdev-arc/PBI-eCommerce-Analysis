@@ -1,16 +1,16 @@
 # eCommererce Analysis
 
-<img src="https://iili.io/H81T1IV.md.gif" />
+![](main.gif)
 
 
 ## Problem Statements
 It's All Good Goods (IAGG) is a B2C e-commerce platform that sells a variety of products worldwide. In an effort to expand visibility in West Africa, 
-the company has aggressively opened stores in Nigeria alongside a heavy marketing push. Each branch has a unique branch manager and set targets
+the company has aggressively opened stores in Nigeria alongside a heavy marketing push. Each branch has a unique branch manager and sets targets
 they hope to hit.
 
 The **requirements** are as follows:
 
-* [ ] Create a summary page that displays total sales, product cost and profit at a glance. The user should be able to filter by date ranges.
+* [ ] Create a summary page that displays total sales, product costs, and profit at a glance. The user should be able to filter by date ranges.
 
 The support dashboards should answer the following questions:
 
@@ -22,7 +22,7 @@ The support dashboards should answer the following questions:
 * [ ] Who are our customers?
 * [ ] Which location are customers buying from?
 
-In addtion to those questions:
+In addition to those questions:
 
-* [ ] Display the top ten most active customers by orders.
-* [ ] On a table, display product data with revenue, cost, profit and profit percentage.
+* [ ] Display the top ten most active customers by order.
+* [ ] On a table, display product data with revenue, cost, profit, and profit percentage.
